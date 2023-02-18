@@ -84,7 +84,7 @@ while True:
     try:
         os.system('cls')
         pilih = int(input(
-            "    Phonebook-mu\n\n1. Buat Kontak Baru\n2. Hapus Kontak\n3. Cari kontak\n4. Edit Kontak\n5. Daftar Kontak\n6. Keluar\n\nPilih: "))
+            ".:*{ Phonebook-mu }*:.\n\n1. Buat Kontak Baru\n2. Hapus Kontak\n3. Cari kontak\n4. Edit Kontak\n5. Daftar Kontak\n6. Keluar\n\nPilih: "))
         if pilih == 1:
             tambah()
             input()
